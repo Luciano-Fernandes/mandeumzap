@@ -1896,7 +1896,7 @@ body {
   color: #3c4838;
 }
 .cid-rzrCumZjJD {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1944,15 +1944,7 @@ body {
   text-align: center;
 }
 .cid-rzrshjurGQ {
-  padding-top: 0px;
-  padding-bottom: 105px;
   background-color: #ffffff;
-}
-@media (max-width: 992px) {
-  .cid-rzrshjurGQ {
-    padding-top: 0px;
-    padding-bottom: 70px;
-  }
 }
 .cid-rzrshjurGQ .box {
   background-image: url("../../../assets/images/tela-2000x1555.png");
@@ -2031,10 +2023,6 @@ body {
   color: #ffffff;
 }
 @media (max-width: 576px) {
-  .cid-rzrshjurGQ {
-    padding-top: 0px;
-    padding-bottom: 49px;
-  }
   .cid-rzrshjurGQ .box {
     height: 250px;
   }
